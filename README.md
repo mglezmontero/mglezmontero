@@ -1,6 +1,6 @@
 👋 Hi, I’m @mglezmontero
 👀 I’m interested in coding
-🌱 I’m currently learning C. I also know how to program in Java
+🌱 I’m currently learning C. I also know how to program in Java and JS
 📫 How to reach me: monica.glez.montero@gmail.com
 
 <!---
